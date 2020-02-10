@@ -11,8 +11,6 @@ function yourAnimal(animal){
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  if (animal == "dog")
-    animal = "cat"
   return animal
 }
 
