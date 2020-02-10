@@ -13,7 +13,7 @@ function yourAnimal(myAnimal){
   // P.S.: Hard-coding 'cat' below will not work
   if(myAnimal == "dog")
     animal = 'cat'
-  return myAnimal()
+  return animal
 }
 
 function add2(n) {
